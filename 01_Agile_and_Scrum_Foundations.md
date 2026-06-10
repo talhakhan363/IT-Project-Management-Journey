@@ -17,6 +17,6 @@ A true Scrum team has three distinct roles, ensuring a balance of power and focu
 * **Development Team:** The engineers, designers, and QA testers who actually build the product and decide how to technically achieve the goals.
 
 ## Visualizing Work: Kanban
-[cite_start]Kanban is another Agile framework, often used alongside Scrum, with the primary goal to visualize work and maximize efficiency[cite: 111].
-* [cite_start]**The Board:** Work is represented by cards that move across columns, typically: Backlog ➔ To Do ➔ In Progress ➔ In Review ➔ Done[cite: 112].
-* [cite_start]**WIP Limits (Work In Progress):** Kanban heavily restricts how many tasks can be in the "In Progress" column at one time[cite: 113]. [cite_start]This forces teams to finish what they started before starting something new[cite: 114].
+Kanban is another Agile framework, often used alongside Scrum, with the primary goal to visualize work and maximize efficiency.
+* **The Board:** Work is represented by cards that move across columns, typically: Backlog ➔ To Do ➔ In Progress ➔ In Review ➔ Done.
+* **WIP Limits (Work In Progress):** Kanban heavily restricts how many tasks can be in the "In Progress" column at one time. This forces teams to finish what they started before starting something new.
