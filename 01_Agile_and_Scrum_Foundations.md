@@ -11,10 +11,10 @@ Agile is a philosophy, and Scrum is a specific framework used to put that philos
 * **Meetings:** The framework utilizes Sprint Planning, Daily Standups (quick 15-minute daily meetings), and Sprint Retrospectives to discuss what went well and what went wrong.
 
 ## Scrum Roles
-[cite_start]A true Scrum team has three distinct roles, ensuring a balance of power and focus[cite: 87]:
-* [cite_start]**Product Owner:** They own the vision of the product, prioritize the feature list, and define exactly what needs to be built[cite: 88, 89].
-* [cite_start]**Scrum Master:** They are the process expert who manages the Scrum process and removes any roadblocks or distractions preventing the team from working[cite: 90, 91].
-* [cite_start]**Development Team:** The engineers, designers, and QA testers who actually build the product and decide how to technically achieve the goals[cite: 92, 93].
+A true Scrum team has three distinct roles, ensuring a balance of power and focus[cite: 87]:
+* **Product Owner:** They own the vision of the product, prioritize the feature list, and define exactly what needs to be built.
+* **Scrum Master:** They are the process expert who manages the Scrum process and removes any roadblocks or distractions preventing the team from working.
+* **Development Team:** The engineers, designers, and QA testers who actually build the product and decide how to technically achieve the goals.
 
 ## Visualizing Work: Kanban
 [cite_start]Kanban is another Agile framework, often used alongside Scrum, with the primary goal to visualize work and maximize efficiency[cite: 111].
